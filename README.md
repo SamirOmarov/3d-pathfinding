@@ -1,10 +1,10 @@
-<h1 align="center">Pathfinding Visualizer ThreeJS</h1>
+<h1 align="center"A-star 2.5DS</h1>
 
 
 
 ## Features
 #
-Contributions are welcome. Please read [CONTRIBUTING.md](./CONTRIBUTING.md) for more information.
+
 
 ## Project setup
 ```
